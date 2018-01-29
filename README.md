@@ -1,5 +1,5 @@
 # spring-maven-resteasy
-> Use spring maven and resteasy to construction project , integrate the necessary packages , quick start
+> Use spring maven and resteasy to build project , integrate the necessary packages , quick start
 
 # Environment install
 > 1.Tomcat 8.0    
